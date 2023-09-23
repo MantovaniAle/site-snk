@@ -1,0 +1,72 @@
+* {
+    border: 0;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    align-items: center;
+}
+
+body {
+    font-family: 'poppins', sans-serif;
+    font-weight: 700;
+    margin: 0 auto;
+    color: #333333;
+}
+
+.title {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-content: center;
+}
+
+.snk-logo {
+    height: 15vh;
+}
+
+.textbody {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    max-width: 1280px;
+}
+
+.snk-build {
+    height: 30vh;
+    padding: 20px;
+}
+
+.snk-oldlogo {
+    height: 10vh;
+    padding: 20px;
+
+}
+
+h3 {
+    padding: 20px;
+}
+
+.img-group {
+    display: flex;
+    flex-direction: row;
+}
+
+.space {
+    padding: 10px;
+}
+
+.git-img {
+    height: 7vh;
+}
+
+.header {
+    display: flex;
+    flex-direction: row;
+    justify-content: first baseline;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+}
