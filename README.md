@@ -1,1 +1,1 @@
-# site-samuraisd
+# snk's history site
